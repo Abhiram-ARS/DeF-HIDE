@@ -1,2 +1,1 @@
-# DeF-HIDE-
-DeF-HIDE : Defensive Framework for HID Exploits
+# DeF-HIDE, Defensive Framework for HID Exploits
