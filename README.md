@@ -44,50 +44,11 @@ DeF-HIDE:
 
 ---
 
-## 🖥️ Requirements
-
-* Python 3.x
-* `keyboard` library
-
-Install dependency:
-
-```bash
-pip install keyboard
-```
-
----
-
 ## ▶️ How to Run
 
 ```bash
 python main.pyw
 ```
-
-> ⚠️ Run as Administrator for full functionality
-
----
-
-## ⌨️ Controls
-
-* **Win + R** → Intercept and show alert
-* **ESC** → Exit program
-
----
-
-## 🔐 Limitations
-
-* Only monitors `Win + R`
-* Cannot fully stop advanced HID attacks
-* Works at user-level (not system-level security)
-
----
-
-## 🚀 Future Improvements
-
-* Detect fast/automated typing patterns
-* Monitor multiple shortcuts
-* Log suspicious activities
-* Detect new HID devices
 
 ---
 
@@ -104,4 +65,8 @@ This project is built for:
 ## 👨‍💻 Author
 
 *[Abhiram S](https://github.com/Abhiram-ARS)*
+
+## 📜 License
+This Project is licensed under [MIT Liscense](https://github.com/Abhiram-ARS/DeF-HIDE/blob/main/LICENSE).
+This project is for educational and ethical use only.
 
