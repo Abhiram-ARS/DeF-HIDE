@@ -1,3 +1,10 @@
+# -----------------------------------------------
+# Project - Def-HIDE, Defensive Framework for HID Explitation
+# Version - v1.1
+# Filename - main.py
+# Author - Abhiram S [https://github.com/Abhiram-ARS]
+# Date - 31-03-2026
+# -----------------------------------------------
 import keyboard
 import queue
 import subprocess
