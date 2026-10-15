@@ -3,7 +3,7 @@
 # Version - v1.2
 # Filename - def_hide_main.pyw
 # Author - Abhiram S [https://github.com/Abhiram-ARS]
-# Date - 31-03-2026
+# Date - 15-10-2026
 # -----------------------------------------------
 import keyboard
 import queue
